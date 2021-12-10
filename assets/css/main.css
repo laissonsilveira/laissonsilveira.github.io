@@ -3228,20 +3228,3 @@ body.is-touch .poptrox-popup .closer {
     text-align: justify;
     text-justify: inter-word;
 }
-
-.bmc-btn {
-    height: 50px !important;
-    border-radius: 0.35em !important;
-    font-size: 14px !important;
-    font-weight: 400 !important;
-    line-height: 2.75em !important;
-    font-family: "Source Sans Pro", Helvetica, sans-serif !important;
-    line-height: 2.75em !important;
-    text-decoration: none !important;
-    white-space: nowrap !important;
-}
-
-a.bmc-btn:hover {
-    border: solid 3px #49bf9d;
-    background-color: transparent !important;
-}
